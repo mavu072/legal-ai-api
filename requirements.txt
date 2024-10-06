@@ -1,11 +1,12 @@
 fastapi
 pydantic
+python-multipart
+python-dotenv
 langchain
 langchain_chroma
 langchain_openai
 langchain_community
-python-dotenv
 pillow
 pdf2image
 pytesseract
-spacy
+spacy==3.8.0
